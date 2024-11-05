@@ -12,4 +12,4 @@ steps:
         from_secret: docker_pass
       repo: amdx86/alpinelinuxtest
       tags: v1
-      dockerfile: dockerfiles
+      dockerfile: dockerfile
